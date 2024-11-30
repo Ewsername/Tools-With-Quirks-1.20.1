@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:cherry_planks"
+    },
+    "S": {
+      "item": "minecraft:cherry_slab"
+    },
+    "X": {
+      "item": "tools-with-quirks:wooden_handle"
+    }
+  },
+  "pattern": [
+    "PPS",
+    " X "
+  ],
+  "result": {
+    "item": "tools-with-quirks:wooden_cherry_pickaxe"
+  },
+  "show_notification": true
+}

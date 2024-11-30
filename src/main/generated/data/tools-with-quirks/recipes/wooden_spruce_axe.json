@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "P": {
+      "item": "minecraft:spruce_planks"
+    },
+    "S": {
+      "item": "minecraft:spruce_slab"
+    },
+    "X": {
+      "item": "tools-with-quirks:wooden_handle"
+    }
+  },
+  "pattern": [
+    " P ",
+    "SP ",
+    " X "
+  ],
+  "result": {
+    "item": "tools-with-quirks:wooden_spruce_axe"
+  },
+  "show_notification": true
+}

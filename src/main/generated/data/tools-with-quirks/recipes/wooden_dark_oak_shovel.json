@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:dark_oak_slab"
+    },
+    "X": {
+      "item": "tools-with-quirks:wooden_handle"
+    }
+  },
+  "pattern": [
+    "S  ",
+    " X "
+  ],
+  "result": {
+    "item": "tools-with-quirks:wooden_dark_oak_shovel"
+  },
+  "show_notification": true
+}

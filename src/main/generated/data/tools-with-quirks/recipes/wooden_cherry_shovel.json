@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "S": {
+      "item": "minecraft:cherry_slab"
+    },
+    "X": {
+      "item": "tools-with-quirks:wooden_handle"
+    }
+  },
+  "pattern": [
+    "S  ",
+    " X "
+  ],
+  "result": {
+    "item": "tools-with-quirks:wooden_cherry_shovel"
+  },
+  "show_notification": true
+}
